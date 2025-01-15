@@ -21,4 +21,6 @@ Efforts to reintroduce caribou to the Slate Islands are underway, with a small n
 The goal of this project is to bridge the gap between Indigenous knowledge and scientific understanding, including remote sensing technology, to develop effective conservation strategies for the caribou on the Slate Islands.
 
 
-![Slate Islands Map](https://github.com/Melleason/Caribou-habitat-management-/blob/3dd96d46862faee1ef0c2f986a21643fa1a1ca2e/data/Images/Slate_Island_Map4.jpg)
+
+**Map of the Slate Islands Provincial Park**
+![slate Islands Map](https://github.com/Melleason/Caribou-habitat-management-/blob/b3da6859d1a3fa4fd23a7c37e57034d2e2c74f89/data/Images/Slate_Island_Map4.jpg)
