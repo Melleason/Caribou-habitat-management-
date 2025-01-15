@@ -7,7 +7,7 @@ In partnership with the Biigtigong First Nation, this project aims to create an 
 
 
 
-![Sub-adult male Caribou](https://github.com/Melleason/Caribou-habitat-management-/blob/3dd96d46862faee1ef0c2f986a21643fa1a1ca2e/data/Images/Caribou_SlateIsland_MosesElleason.JPG)
+![Sub-adult male Caribou](
 
 
 
